@@ -16,6 +16,4 @@ public class Dates {
     private int month;
     private int year;
 
-
-
 }
