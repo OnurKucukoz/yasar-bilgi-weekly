@@ -22,7 +22,4 @@ public class YasarUser {
     @ElementCollection
     private List<LocalDate> dates;
 
-
-
-
 }

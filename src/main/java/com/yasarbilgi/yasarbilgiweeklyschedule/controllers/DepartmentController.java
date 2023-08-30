@@ -4,7 +4,6 @@ import com.yasarbilgi.yasarbilgiweeklyschedule.entities.Department;
 import com.yasarbilgi.yasarbilgiweeklyschedule.services.DepartmentService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
